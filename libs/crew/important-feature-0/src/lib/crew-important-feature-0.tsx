@@ -254,6 +254,7 @@ import './crew-important-feature-0.module.css';
 export interface CrewImportantFeature0Props {}
 
 export function CrewImportantFeature0(props: CrewImportantFeature0Props) {
+  console.log('test');
   return (
     <div>
       <h1>Welcome to crew-important-feature-0!</h1>
